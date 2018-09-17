@@ -1,0 +1,16 @@
+@import "~antd/dist/antd.css";
+.header,
+.header-menu {
+  background-color: #ff6600;
+}
+.logo {
+  float: left;
+  font-weight: bolder;
+  margin-right:10px;
+}
+.header-menu {
+  line-height: 64px;
+}
+a,a:hover{
+  color:black;
+}
